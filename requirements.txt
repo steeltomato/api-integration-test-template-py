@@ -1,0 +1,7 @@
+requests==2.26.0
+mypy==0.910
+mypy-extensions==0.4.3
+pytest==6.2.5
+pre-commit==2.15.0
+apiritif==1.0.0
+typed-settings==0.11.1

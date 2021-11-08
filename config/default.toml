@@ -1,0 +1,4 @@
+[apitest]
+env = "local"
+baseurl = "http://localhost:8000"
+tenant = "DTCOM"
